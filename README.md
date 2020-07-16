@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://github.com/AMatisse/AMatisse/tree/master/assets/hi.gif" width="130px" alt="Hi gif">
+    <img src="https://github.com/AMatisse/AMatisse/blob/master/assets/hi.gif" width="130px" alt="Hi gif">
 <div>
 <div>
     <img align="left" src="https://github.com/AMatisse/AMatisse/blob/master/assets/male_avatar.svg" width="150">
