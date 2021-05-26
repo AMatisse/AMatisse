@@ -19,7 +19,7 @@
     <a href="https://www.linkedin.com/in/matisse-aubry" alt="LinkedIn"><img src="https://github.com/AMatisse/AMatisse/blob/master/assets/linkedin.svg" width="25px"></a>
     <a href="https://github.com/AMatisse" alt="GitHub"><img src="https://github.com/AMatisse/AMatisse/blob/master/assets/github.svg" width="25px"></a>
     <a href="https://gitlab.com/maubry" alt="GitLab"><img src="https://github.com/AMatisse/AMatisse/blob/master/assets/gitlab.svg" width="25px"></a>
-    <a href="https://amatisse.github.io/" alt="Portfolio"><img src="https://github.com/AMatisse/AMatisse/blob/master/assets/earth.svg" width="25px"></a>
+    <a href="https://amatisse.dev/" alt="Portfolio"><img src="https://github.com/AMatisse/AMatisse/blob/master/assets/earth.svg" width="25px"></a>
 </p>
     
 [![Github activity graph](https://activity-graph.herokuapp.com/graph?username=amatisse&theme=dracula&area=true)](https://amatisse.dev)
