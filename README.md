@@ -5,7 +5,7 @@
     <img align="left" src="https://github.com/AMatisse/AMatisse/blob/master/assets/male_avatar.svg" width="150">
     <p align="left" height="230px">
         🙋‍♂️: Matisse <br />
-        🎓: Etudiant (Bac +4) <br />
+        🎓: Etudiant (Bac +5) <br />
         💼: Silamir (Alternance)<br />
         👨‍💻: <img src="https://github.com/AMatisse/AMatisse/blob/master/assets/javascript.svg" alt="JavaScript" width="20px">
         <img src="https://github.com/AMatisse/AMatisse/blob/master/assets/typescript.svg" alt="TypeScript" width="20px">
