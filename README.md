@@ -28,6 +28,7 @@
     <a href="https://github.com/AMatisse" alt="GitHub"><img src="https://github.com/AMatisse/AMatisse/blob/master/assets/github.svg" width="25px"></a>
     <a href="https://gitlab.com/maubry" alt="GitLab"><img src="https://github.com/AMatisse/AMatisse/blob/master/assets/gitlab.svg" width="25px"></a>
     <a href="https://amatisse.dev/" alt="Portfolio"><img src="https://github.com/AMatisse/AMatisse/blob/master/assets/earth.svg" width="25px"></a>
+    <a href="https://dev.to/amatisse" alt="Dev.to"><img src="https://github.com/AMatisse/AMatisse/blob/master/assets/devdotto.svg" width="25px"></a>
 </p>
     
 [![AMatisse's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=amatisse&radius=16&theme=vue&hide_border=true)](https://github.com/AMatisse)
