@@ -7,7 +7,7 @@
         🙋‍♂️: Matisse<br />
         🎓: Master's degree - Software architect, application developer<br />
         👨‍💻: Full Stack R&D Engineer<br />
-        🏢: Silamir<br />
+        🌍: France<br />
         🔨: <img src="https://github.com/AMatisse/AMatisse/blob/master/assets/javascript.svg" alt="JavaScript" width="20px">
         <img src="https://github.com/AMatisse/AMatisse/blob/master/assets/typescript.svg" alt="TypeScript" width="20px">
         <img src="https://github.com/AMatisse/AMatisse/blob/master/assets/vue-dot-js.svg" alt="VueJS" width="20px">
@@ -16,7 +16,6 @@
         <img src="https://github.com/AMatisse/AMatisse/blob/master/assets/angular.svg" alt="Angular" width="20px">
         <img src="https://github.com/AMatisse/AMatisse/blob/master/assets/electron.svg" alt="Electron" width="20px">
         <img src="https://github.com/AMatisse/AMatisse/blob/master/assets/ionic.svg" alt="Ionic" width="20px">
-        <img src="https://github.com/AMatisse/AMatisse/blob/master/assets/git.svg" alt="Git" width="20px">
         <img src="https://github.com/AMatisse/AMatisse/blob/master/assets/docker.svg" alt="Docker" width="20px">
         <img src="https://github.com/AMatisse/AMatisse/blob/master/assets/amazonaws.svg" alt="AWS" width="20px">
         <img src="https://github.com/AMatisse/AMatisse/blob/master/assets/python.svg" alt="Python" width="20px">
