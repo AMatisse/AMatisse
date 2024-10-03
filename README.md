@@ -7,7 +7,7 @@
         🙋‍♂️: Matisse<br />
         🎓: Master's degree - Software architect, application developer<br />
         👨‍💻: Full Stack R&D Engineer<br />
-        🌍: France<br />
+        🌍: Canada<br />
         🔨: <img src="https://github.com/AMatisse/AMatisse/blob/master/assets/javascript.svg" alt="JavaScript" width="20px">
         <img src="https://github.com/AMatisse/AMatisse/blob/master/assets/typescript.svg" alt="TypeScript" width="20px">
         <img src="https://github.com/AMatisse/AMatisse/blob/master/assets/vue-dot-js.svg" alt="VueJS" width="20px">
