@@ -8,7 +8,7 @@
 
 <h2>About Me 👨‍💻</h2>
 
-<img align="right" src="https://github.com/AMatisse/AMatisse/blob/master/assets/male_avatar.svg" width="200">
+<img align="right" src="https://github.com/AMatisse/AMatisse/blob/master/assets/male_avatar.svg" width="150">
 
 - 🎓 Master's degree in Software Architecture
 - 👨‍💻 Full Stack Engineer
